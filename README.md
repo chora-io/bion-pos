@@ -1,3 +1,3 @@
-# biome-pos
+# bion-pos
 
-proof-of-stake blockchain application
+proof-of-stake blockchain example
